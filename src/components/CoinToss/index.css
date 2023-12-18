@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to right, #e2a139, #f9d423);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+}
+.heading {
+  color: #a35200;
+  font-size: 18px;
+}
+.toss-img {
+  width: 140px;
+}
+.description {
+  color: #475569;
+  font-size: 14px;
+}
+.counts-container {
+  display: flex;
+}
+.count {
+  margin: 10px;
+  color: #475569;
+  font-size: 12px;
+}
